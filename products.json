@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Rem nendoroid",
+        "price": 36.49,
+        "image": { "fields": { "file": { "url": "./images/rem.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Ram nendoroid",
+        "price": 36.49,
+        "image": { "fields": { "file": { "url": "./images/ram.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Holo nendoroid",
+        "price": 36.43,
+        "image": { "fields": { "file": { "url": "./images/Holo.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Saber/Altria Pendragon (Alter) Shinjuku Ver. nendoroid",
+        "price": 34.28,
+        "image": {
+          "fields": { "file": { "url": "./images/saber-altria.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Mai Sakurajima nendoroid",
+        "price": 36.77,
+        "image": { "fields": { "file": { "url": "./images/mai.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Alice Synthesis Thirty nendoroid",
+        "price": 41.75,
+        "image": { "fields": { "file": { "url": "./images/alice.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Mikasa Ackerman nendoroid",
+        "price": 37.95,
+        "image": {
+          "fields": { "file": { "url": "./images/mikasa-nendoroid.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Shinobu nendoroid",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/shinobu.jpg" } } }
+      }
+    }
+  ]
+}
